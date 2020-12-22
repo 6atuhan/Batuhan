@@ -1,0 +1,10 @@
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane lab.csprojAssemblyReference.cache
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane_lab.Form1.resources
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane_lab.Properties.Resources.resources
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane lab.csproj.GenerateResource.cache
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane lab.csproj.CoreCompileInputs.cache
+C:\Users\boran\source\repos\hastane lab\hastane lab\bin\Debug\hastane lab.exe.config
+C:\Users\boran\source\repos\hastane lab\hastane lab\bin\Debug\hastane lab.exe
+C:\Users\boran\source\repos\hastane lab\hastane lab\bin\Debug\hastane lab.pdb
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane lab.exe
+C:\Users\boran\source\repos\hastane lab\hastane lab\obj\Debug\hastane lab.pdb

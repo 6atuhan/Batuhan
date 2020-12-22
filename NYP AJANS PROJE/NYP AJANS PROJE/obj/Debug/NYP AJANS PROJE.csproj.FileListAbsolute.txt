@@ -1,0 +1,10 @@
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\bin\Debug\NYP AJANS PROJE.exe.config
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\bin\Debug\NYP AJANS PROJE.exe
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\bin\Debug\NYP AJANS PROJE.pdb
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP AJANS PROJE.csprojAssemblyReference.cache
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP_AJANS_PROJE.Properties.Resources.resources
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP AJANS PROJE.csproj.GenerateResource.cache
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP AJANS PROJE.csproj.CoreCompileInputs.cache
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP AJANS PROJE.exe
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP AJANS PROJE.pdb
+C:\Users\boran\source\repos\NYP AJANS PROJE\NYP AJANS PROJE\obj\Debug\NYP_AJANS_PROJE.AJANS.resources

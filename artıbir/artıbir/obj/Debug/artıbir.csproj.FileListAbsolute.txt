@@ -1,0 +1,10 @@
+C:\Users\boran\source\repos\artıbir\artıbir\bin\Debug\artıbir.exe.config
+C:\Users\boran\source\repos\artıbir\artıbir\bin\Debug\artıbir.exe
+C:\Users\boran\source\repos\artıbir\artıbir\bin\Debug\artıbir.pdb
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.csprojAssemblyReference.cache
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.Form1.resources
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.Properties.Resources.resources
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.csproj.GenerateResource.cache
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.csproj.CoreCompileInputs.cache
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.exe
+C:\Users\boran\source\repos\artıbir\artıbir\obj\Debug\artıbir.pdb
