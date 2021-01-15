@@ -1,0 +1,10 @@
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\bin\Debug\vtsGunluk.exe.config
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\bin\Debug\vtsGunluk.exe
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\bin\Debug\vtsGunluk.pdb
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.csprojAssemblyReference.cache
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.Form1.resources
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.Properties.Resources.resources
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.csproj.GenerateResource.cache
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.csproj.CoreCompileInputs.cache
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.exe
+C:\Users\boran\source\repos\vtsGunluk\vtsGunluk\obj\Debug\vtsGunluk.pdb
